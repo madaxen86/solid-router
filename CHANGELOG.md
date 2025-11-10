@@ -1,5 +1,12 @@
 # @solidjs/router
 
+## 0.15.4
+
+### Patch Changes
+
+- ac97470: added `SearchParams` to the exported types
+- 8885abf: fix: createAsync - catch errors of prev to avoid bubbling error up
+
 ## 0.15.3
 
 ### Patch Changes
